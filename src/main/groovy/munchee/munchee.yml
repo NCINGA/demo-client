@@ -1,0 +1,4 @@
+name: Munchee-job
+status: active
+file-name: munchee.groovy
+method-name: execute

@@ -1,0 +1,4 @@
+name: Cargills-job
+status: active
+file-name: cargills.groovy
+method-name: execute

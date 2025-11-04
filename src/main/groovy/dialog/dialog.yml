@@ -1,0 +1,4 @@
+name: Dialog-job
+status: active
+file-name: dialog.groovy
+method-name: execute
