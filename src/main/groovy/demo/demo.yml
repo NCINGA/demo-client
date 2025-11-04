@@ -1,0 +1,5 @@
+name: Demo-job
+status: active
+file-name: demo.groovy
+method-name: execute
+
