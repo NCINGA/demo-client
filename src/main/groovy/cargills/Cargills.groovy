@@ -11,6 +11,7 @@ class Cargills implements ServiceExecutor {
                 .url("https://reqres.in/api/users?page=2")
                 .method(Method.GET)
                 .mediaType("application/json")
+                .headers(["Accept": "application/json"])
                 .build()
 
         def response = client.exchange() as Map
